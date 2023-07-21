@@ -1,0 +1,6 @@
+const index_vue_vue_type_style_index_0_lang = '@charset "UTF-8";.baove-container h3{font-size:28px;font-weight:600}.primary-color{color:#472f92}.message-btn{background:#472f92;border-radius:.5rem;color:#fff;font-weight:600;margin-left:auto;padding:.5rem;text-transform:uppercase}.message-btn:hover{color:#fff}.content{display:flex;gap:2rem;margin-top:3.5rem}@media (max-width:430.5px){.content{flex-direction:column}}.content__img{max-height:300px;-o-object-fit:cover;object-fit:cover}.content__tvv{display:flex;flex:1;flex-direction:column}.content ul{list-style:none;padding-left:1rem}.content ul li{margin-bottom:1rem}.content ul li:before{color:#472f92;content:"\u2022";display:inline-block;font-size:25px;font-weight:700;height:1rem;line-height:12px;margin-left:-1rem;vertical-align:middle}.space-top{padding-top:3.5rem}.list-img{display:grid;gap:1.5rem;grid-auto-flow:column;margin-top:2rem}.list-img__img{height:238px;max-width:100%;-o-object-fit:contain;object-fit:contain}.list-img p{font-weight:700;margin-top:.5rem;text-align:center}.list-img__content{align-items:center;display:flex;flex-direction:column}.list-img .message-btn{margin:10px auto}.sub-description{margin:0 auto;max-width:1000px}';
+
+const indexStyles_0ce4a835 = [index_vue_vue_type_style_index_0_lang];
+
+export { indexStyles_0ce4a835 as default };
+//# sourceMappingURL=index-styles.0ce4a835.mjs.map
